@@ -5,5 +5,5 @@ Run instructions:
 2. Install python 3.8
 3. run command via cmd : python get-pip.py
 4. run command via cmd : pip install selenium
-5. Clone solution qa-tesch-test repository.
-6. run command from qa-tech-test\src\test\e2e : python challenge1.py
+5. Clone qa-tech-test-solution repository.
+6. run command from qa-tech-test-solution\src\test\e2e : python challenge1.py
